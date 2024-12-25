@@ -14,7 +14,7 @@ apt install proot-distro
 
 ## Install Debian by Proot Distro
 
-pd install debian
+proot-distro install debian
 
 ## Move debian file to PREFIX
 
