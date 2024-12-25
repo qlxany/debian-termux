@@ -10,4 +10,4 @@ curl -s https://raw.githubusercontent.com/qlxany/debian-termux/main/install.sh |
 
 # Command
 
-* To run ngrok use `debian`
+* To run debian use `debian`
